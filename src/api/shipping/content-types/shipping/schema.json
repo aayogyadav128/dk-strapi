@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "shippings",
+  "info": {
+    "singularName": "shipping",
+    "pluralName": "shippings",
+    "displayName": "shipping"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "shipping": {
+      "type": "richtext"
+    }
+  }
+}

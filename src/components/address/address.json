@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_address_addresses",
+  "info": {
+    "displayName": "Address",
+    "icon": "house"
+  },
+  "options": {},
+  "attributes": {
+    "address_line_1": {
+      "type": "text"
+    },
+    "addresss_line_2": {
+      "type": "text"
+    },
+    "city": {
+      "type": "string"
+    },
+    "state": {
+      "type": "string"
+    },
+    "country": {
+      "type": "string"
+    },
+    "zip": {
+      "type": "string"
+    }
+  }
+}

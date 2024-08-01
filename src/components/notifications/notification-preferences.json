@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_notifications_notification_preferences",
+  "info": {
+    "displayName": "notification preferences",
+    "icon": "bell"
+  },
+  "options": {},
+  "attributes": {
+    "email_notification": {
+      "type": "boolean"
+    },
+    "sms_notification": {
+      "type": "boolean"
+    },
+    "push_notification": {
+      "type": "boolean"
+    }
+  }
+}

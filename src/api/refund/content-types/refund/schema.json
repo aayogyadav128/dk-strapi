@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "refunds",
+  "info": {
+    "singularName": "refund",
+    "pluralName": "refunds",
+    "displayName": "refund"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "refund": {
+      "type": "richtext"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_device_device_infos",
+  "info": {
+    "displayName": "Device Info",
+    "icon": "user"
+  },
+  "options": {},
+  "attributes": {
+    "device_id": {
+      "type": "string"
+    },
+    "device_type": {
+      "type": "string"
+    }
+  }
+}
